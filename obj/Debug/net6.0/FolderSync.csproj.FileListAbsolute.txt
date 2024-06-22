@@ -1,0 +1,15 @@
+D:\Repositorios\Work\Veem Test\FolderSync\bin\Debug\net6.0\FolderSync.exe
+D:\Repositorios\Work\Veem Test\FolderSync\bin\Debug\net6.0\FolderSync.deps.json
+D:\Repositorios\Work\Veem Test\FolderSync\bin\Debug\net6.0\FolderSync.runtimeconfig.json
+D:\Repositorios\Work\Veem Test\FolderSync\bin\Debug\net6.0\FolderSync.dll
+D:\Repositorios\Work\Veem Test\FolderSync\bin\Debug\net6.0\FolderSync.pdb
+D:\Repositorios\Work\Veem Test\FolderSync\obj\Debug\net6.0\FolderSync.csproj.AssemblyReference.cache
+D:\Repositorios\Work\Veem Test\FolderSync\obj\Debug\net6.0\FolderSync.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Work\Veem Test\FolderSync\obj\Debug\net6.0\FolderSync.AssemblyInfoInputs.cache
+D:\Repositorios\Work\Veem Test\FolderSync\obj\Debug\net6.0\FolderSync.AssemblyInfo.cs
+D:\Repositorios\Work\Veem Test\FolderSync\obj\Debug\net6.0\FolderSync.csproj.CoreCompileInputs.cache
+D:\Repositorios\Work\Veem Test\FolderSync\obj\Debug\net6.0\FolderSync.dll
+D:\Repositorios\Work\Veem Test\FolderSync\obj\Debug\net6.0\refint\FolderSync.dll
+D:\Repositorios\Work\Veem Test\FolderSync\obj\Debug\net6.0\FolderSync.pdb
+D:\Repositorios\Work\Veem Test\FolderSync\obj\Debug\net6.0\FolderSync.genruntimeconfig.cache
+D:\Repositorios\Work\Veem Test\FolderSync\obj\Debug\net6.0\ref\FolderSync.dll
