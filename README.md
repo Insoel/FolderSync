@@ -12,7 +12,7 @@ FolderSync is a simple tool to synchronize two folders: source and replica, ensu
 
 - .NET Core (or .NET Framework)
 - Git
-- 
+  
 ## Usage
 
 ### Command Line Arguments
